@@ -1,4 +1,4 @@
-# App-Verse Project Contribution Guidelines 📱
+# App-Verse Contribution Guidelines 📱
 
 Hello Awesome Contributor! 👋 We're excited to have you on board to help build the App-Verse, a collection of amazing mobile apps. Follow these steps to get started:
 
