@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png" alt="Custom Heading Image" width="100" height="100" />
-</p>
+<h1></h1>
+<!-- <p align="center"> -->
+<!--   <img src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png" alt="Custom Heading Image" width="100" height="100" /> -->
+<!-- </p> -->
 
 # App-Verse 📱: Explore the World of Mobile App Development 
 
