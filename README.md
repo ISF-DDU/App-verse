@@ -3,7 +3,7 @@
 <!--   <img src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png" alt="Custom Heading Image" width="100" height="100" /> -->
 <!-- </p> -->
 
-# App-Verse 📱: Explore the World of Mobile App Development 
+# App-Verse 📱: A Collection Of Mobile Apps/Mini Projects 
 
 Welcome to **App-Verse**, your gateway to a world of exciting mobile app projects! 🚀
 
