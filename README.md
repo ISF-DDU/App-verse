@@ -21,11 +21,7 @@ App-Verse is a vibrant collection of app projects designed for both beginners an
 
 ## Explore the Codebase 📂
 
-When you dive into App-Verse, you'll discover a well-organized codebase that's easy to navigate and contribute to. Here's a peek at our folder structure:
-
-<p align="center">
-  <img src="https://example.com/folder_structure.png" alt="Folder Structure" width="500"/>
-</p>
+When you dive into App-Verse, you'll discover a well-organized codebase that's easy to navigate and contribute to. 
 
 Feel free to explore and find your niche in the world of app development.
 
