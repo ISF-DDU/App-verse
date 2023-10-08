@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>87787815661-4j7qlv1d8vc9js8kivd1v37jm52b82bc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.87787815661-4j7qlv1d8vc9js8kivd1v37jm52b82bc</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>87787815661-7sdo97mgm0utictoercacn2t9b1bm4ph.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD-zTbMxL_V7rXo1XRX7DvzlK6VW1_GVBs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>87787815661</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.akashsoam.budgetApp</string>
+	<key>PROJECT_ID</key>
+	<string>budget-app-93518</string>
+	<key>STORAGE_BUCKET</key>
+	<string>budget-app-93518.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:87787815661:ios:5517dc244ff4c094a182e4</string>
+</dict>
+</plist>
