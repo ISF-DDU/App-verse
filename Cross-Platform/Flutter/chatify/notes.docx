@@ -1,0 +1,3 @@
+To get SH1 key for firebase project
+keytool -list -v -keystore "c:\users\kiit\.android\debug.keystore" -alias androiddebugkey -storepass android -keypass android
+
